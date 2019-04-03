@@ -33,7 +33,7 @@ class Install extends Migration
     {
         // Get Project Config
         $projectConfig = Craft::$app->getProjectConfig();
-        $projectConfig->muteEvents = true;
+        $projectConfig->muteEvents = false;
 
         // Don't make the same config changes twice
         $schemaVersion = $projectConfig->get('plugins.linkit.schemaVersion', true);
