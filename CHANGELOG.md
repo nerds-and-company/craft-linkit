@@ -1,6 +1,12 @@
 # Linkit Changelog
 > One link field to rule them all, built for [Craft 3](http://craftcms.com)
 
+## 1.1.11 - 2019-04-03
+
+### Fixed
+
+*   Fixed by using nerds-and-company linkit with temporary workaround (https://github.com/craftcms/cms/issues/3977)
+
 ## 1.1.10 - 2019-03-19
 
 ### Fixed

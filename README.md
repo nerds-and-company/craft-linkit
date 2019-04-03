@@ -28,7 +28,7 @@ Open terminal, go to your Craft project folder and use composer to load this plu
 
 ```bash
 cd /path/to/project
-composer require fruitstudios/linkit
+composer require nerds-and-company/craft-linkit
 ```
 
 ## Updating from Craft 2
